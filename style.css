@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background: lightyellow;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
